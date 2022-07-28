@@ -1,24 +1,35 @@
-
-### Olá! Eu sou o Gabriel Marques 🖐️💻
+### Olá! Prazer sou o Gabriel Marques 🖐️💻
 
 <!--[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmgabriellima@gmail.com)-->
 <!--[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielMarques011)-->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marques-6bb222174/)
 
-<!--![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarques011&show_icons=true&theme=dark)-->
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarques011&show_icons=true&theme=blue)
+[![Gabriel Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielMarques011&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielMarques011&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>-->
 
-## Tecnologias que eu uso no meu dia
+## MEUS CONHECIMENTOS
 <div style="display: inline_block"><br>
-<img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="GM-JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="GM-JAVA" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="GM-mysql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="GM-HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="GM-CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="GM-ANDROID" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="GM-SPRING" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="GM-CANVA" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img align="center" alt="GM-FIGMA" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 <br>
 
-Em busca de sempre estar me aperfeiçoando profissionalmente para que eu consiga grandes oportunidades de ouro!
+## EM APRENDIZADO
+<div style="display: inline_block"><br>
+  <img align="center" alt="GM-REACT" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+</div>
+<br>
+
+Em busca de sempre estar me aperfeiçoando profissionalmente para que eu consiga grandes oportunidades!
 
 <!--[![Gabriel Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarques011&layout=compact)](https://github.com/GabrielMarques011/github-readme-stats)-->
 
