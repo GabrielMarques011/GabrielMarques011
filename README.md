@@ -16,7 +16,7 @@
 </div>
 <br>
 
-Buscando sempre um conhecimento maior, para que eu possa sempre estar melhorando!
+Em busca de sempre estar me aperfeiçoando profissionalmente para que eu consiga grandes oportunidades de ouro!
 
 <!--[![Gabriel Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarques011&layout=compact)](https://github.com/GabrielMarques011/github-readme-stats)-->
 
