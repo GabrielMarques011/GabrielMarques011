@@ -1,4 +1,4 @@
-![Cópia de GM](https://user-images.githubusercontent.com/91213127/181918991-dcbc45aa-6f52-4930-a84b-a99f149474d5.png)
+![BemVindo!](https://user-images.githubusercontent.com/91213127/181920488-f2ba718a-39a9-4169-9d84-1c3e3da9670f.png)
 
 ___
 
