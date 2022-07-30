@@ -35,5 +35,4 @@ ___
 
 ## Entre em Contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marques-6bb222174/)
-- [Gmail:  gmgabriellima@gmail.com](gmgabriellima@gmail.com)
-- [Telefone:  (+55) 11 91074-0613]((+55)1191074-0613)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmgabriellima@gmail.com)
