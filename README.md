@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=043350&height=120&section=header"/>
 
 <!--AQUI ESTOU APLICANDO O NOME SENDO ESCRITO-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GABRIEL+MARQUES;EU+TENHO+19+ANOS;BEM+VINDO+AO+MEU+GIT!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GABRIEL+MARQUES;TENHO+19+ANOS,E+MORO+EM+SÃO+PAULO+-+SP;BEM+VINDO+AO+MEU+REPOSITÓRIO!+:%29)](https://git.io/typing-svg)
 
 <!--AQUI ESTOU APLICANDO AS ESTATISTICAS DO MEU GITHUB TOTAL E AS FERRAMENTAS QUE MAIS UTILIZO-->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielMarques011&show_icons=true&count_private=true&hide_border=true&title_color=043350&icon_color=043350&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Marques stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarques011&layout=compact&hide_border=true&title_color=043350&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielMarques011&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=043350&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Marques stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarques011&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 <!--AQUI VOU UTILIZAR UM GRAFICO DE COMMITs-->
