@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=043350&height=120&section=header"/>
 
 <!--AQUI ESTOU APLICANDO O NOME SENDO ESCRITO-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GABRIEL+MARQUES;TENHO+20+ANOS,E+MORO+EM+SÃO+PAULO+-+SP;BEM+VINDO+AO+MEU+REPOSITÓRIO!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GABRIEL+MARQUES;TENHO+21+ANOS,E+MORO+EM+SÃO+PAULO+-+SP;BEM+VINDO+AO+MEU+REPOSITÓRIO!+:%29)](https://git.io/typing-svg)
 
 <!--AQUI ESTOU APLICANDO AS ESTATISTICAS DO MEU GITHUB TOTAL E AS FERRAMENTAS QUE MAIS UTILIZO-->
 <div align="center">  
