@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=043350&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000720&height=120&section=header"/>
 
 <!--AQUI ESTOU APLICANDO O NOME SENDO ESCRITO-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GABRIEL+MARQUES;TENHO+21+ANOS,E+MORO+EM+SÃO+PAULO+-+SP;BEM+VINDO+AO+MEU+REPOSITÓRIO!+:%29)](https://git.io/typing-svg)
@@ -10,7 +10,7 @@
 </div>
 
 <!--AQUI VOU UTILIZAR UM GRAFICO DE COMMITs-->
-![Contribution](https://activity-graph.herokuapp.com/graph?username=GabrielMarques011&theme=react-dark&hide_border=true&area=true)
+<!--![Contribution](https://activity-graph.herokuapp.com/graph?username=GabrielMarques011&theme=react-dark&hide_border=true&area=true)-->
 
 ### Principais habilidades:
 <div style="display: inline_block"><br>
@@ -44,4 +44,4 @@
   <img align="center" alt="gm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=043350&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000720&height=120&section=footer"/>
