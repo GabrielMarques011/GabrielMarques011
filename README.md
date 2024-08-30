@@ -1,47 +1,65 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00114E&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=563D7C&height=120&section=header"/>
 
-<!--AQUI ESTOU APLICANDO O NOME SENDO ESCRITO-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GABRIEL+MARQUES;TENHO+21+ANOS,E+MORO+EM+SÃO+PAULO+-+SP;BEM+VINDO+AO+MEU+REPOSITÓRIO!+:%29)](https://git.io/typing-svg)
 
-<!--AQUI ESTOU APLICANDO AS ESTATISTICAS DO MEU GITHUB TOTAL E AS FERRAMENTAS QUE MAIS UTILIZO-->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielMarques011&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=043350&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Marques stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarques011&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+<h1 align="center">Olá, meu nome é Gabriel Marques, tenho 21 anos👋</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-marques-6bb222174/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="pessoalgabriel2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
-<!--AQUI VOU UTILIZAR UM GRAFICO DE COMMITs-->
-<!--![Contribution](https://activity-graph.herokuapp.com/graph?username=GabrielMarques011&theme=react-dark&hide_border=true&area=true)-->
+###
 
-### Principais habilidades:
-<div style="display: inline_block"><br>
-   <img align="center" alt="gm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-   <img align="center" alt="gm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   <img align="center" alt="gm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-   <img align="center" alt="gm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-   <img align="center" alt="gm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<h3 align="left">👩‍💻  Sobre Mim:</h3>
+
+###
+
+<p align="left">- 🔭 Estou trabalhando atualmente como Assistente de Suporte Técnico<br>- 📚 Atualmente estou aprendendo JavaScript e Node.js<br>- ⚡No meu tempo livre eu gosto de jogar um game</p>
+
+###
+
+<h3 align="left">🛠 Linguagem e ferramentas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-### Ferramentas que utilizo:
-<div style="display: inline_block"><br>
-  <img align="center" alt="gm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="gm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-  <img align="center" alt="gm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img align="center" alt="gm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="gm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+###
+
+<h3 align="left">🔥   Minhas Estatísticas:</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielMarques011&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielMarques011&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=GabrielMarques011&locale=pt-br&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
-### Outros Conhecimentos:
+###
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="gm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="gm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</div>
-
-### Estudando no momento:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="gm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="gm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00114E&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=563D7C&height=120&section=footer"/>
