@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🔭 Estou trabalhando atualmente como Assistente de Suporte Técnico<br>- 📚 Atualmente estou aprendendo JavaScript e Node.js<br>- ⚡No meu tempo livre eu gosto de jogar um game</p>
+<p align="left">- 🔭 Estou trabalhando atualmente como Assistente de Suporte Técnico<br>- 📚 Atualmente estou aprendendo JavaScript e React JS<br>- ⚡No meu tempo livre eu gosto de jogar</p>
 
 ###
 
