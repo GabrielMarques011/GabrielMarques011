@@ -1,67 +1,98 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=563D7C&height=120&section=header"/>
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Gabriel%20Marques&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20em%20Formação&descAlignY=51&descAlign=50)
 
-<h1 align="center">Olá, meu nome é Gabriel Marques, tenho 21 anos👋</h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marques-6bb222174/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pessoalgabriel2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-###
+</div>
+
+---
+
+## 👨‍💻 Sobre Mim
+
+Desenvolvedor apaixonado por tecnologia com **22 anos**, atualmente focado em desenvolvimento web moderno. Trabalho como **Analista de Suporte Técnico Jr** enquanto me especializo em tecnologias front-end e back-end.
+
+```javascript
+const gabriel = {
+    idade: 22,
+    cargo: "Analista de Suporte Técnico Jr",
+    foco: ["JavaScript", "React.js", "Node.js"],
+    aprendendo: ["TypeScript", "Next.js", "MongoDB", "Python"],
+    hobbies: ["Gaming", "Tecnologia", "Desenvolvimento Web"],
+    objetivo: "Tornar-me um Full Stack Developer"
+};
+```
+
+---
+
+## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-marques-6bb222174/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="pessoalgabriel2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas & Design
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
-###
+---
 
-<h3 align="left">👩‍💻  Sobre Mim:</h3>
-
-###
-
-<p align="left">- 🔭 Estou trabalhando atualmente como Assistente de Suporte Técnico<br>- 📚 Atualmente estou aprendendo JavaScript e React JS<br>- ⚡No meu tempo livre eu gosto de jogar</p>
-
-###
-
-<h3 align="left">🛠 Linguagem e ferramentas</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   Minhas Estatísticas:</h3>
-
-###
+## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielMarques011&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielMarques011&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=GabrielMarques011&locale=pt-br&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMarques011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarques011&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=GabrielMarques011&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=563D7C&height=120&section=footer"/>
+---
+
+## 🎯 Objetivos 2025
+
+- [ ] **Dominar React.js** e suas principais bibliotecas
+- [ ] **Aprender TypeScript** para desenvolvimento mais robusto
+- [ ] **Contribuir** para projetos open source
+- [ ] **Desenvolver** um projeto full-stack completo
+- [ ] **Obter certificações** em tecnologias web modernas
+
+---
+
+## 🌐 Vamos Conectar?
+
+<div align="center">
+
+**Sempre aberto para novas oportunidades e colaborações!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Marques-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marques-6bb222174/)
+[![Email](https://img.shields.io/badge/Email-pessoalgabriel2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pessoalgabriel2003@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GabrielMarques011.GabrielMarques011)
+[![Profile Views](https://komarev.com/ghpvc/?username=GabrielMarques011&color=brightgreen&style=for-the-badge)](https://github.com/GabrielMarques011)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
