@@ -59,10 +59,6 @@ const gabriel = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarques011&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=GabrielMarques011&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 🎯 Objetivos 2025
