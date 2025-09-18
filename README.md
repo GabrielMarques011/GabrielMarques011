@@ -17,7 +17,7 @@ Desenvolvedor apaixonado por tecnologia com **22 anos**, atualmente focado em de
 ```javascript
 const gabriel = {
     idade: 22,
-    cargo: "Analista de Suporte Técnico Jr",
+    cargo: "Analista de TI Junior",
     foco: ["JavaScript", "React.js", "Node.js"],
     aprendendo: ["TypeScript", "Next.js", "MongoDB", "Python"],
     hobbies: ["Gaming", "Tecnologia", "Desenvolvimento Web"],
